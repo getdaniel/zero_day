@@ -1,1 +1,1 @@
-**This is mandatory in projects** _small_
+**This is mandatory in projects** _Small_
